@@ -1,2 +1,0 @@
-# Skript
-Created with CodeSandbox
